@@ -1,0 +1,5 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1zad\laba2_1zad\bin\Debug\laba2_1zad.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1zad\laba2_1zad\bin\Debug\laba2_1zad.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1zad\laba2_1zad\bin\Debug\laba2_1zad.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1zad\laba2_1zad\obj\Debug\laba2_1zad.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba2_1zad\laba2_1zad\obj\Debug\laba2_1zad.pdb

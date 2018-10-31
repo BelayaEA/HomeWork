@@ -1,0 +1,6 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba2_2zad\laba2_2zad\bin\Debug\laba2_2zad.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba2_2zad\laba2_2zad\bin\Debug\laba2_2zad.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba2_2zad\laba2_2zad\bin\Debug\laba2_2zad.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba2_2zad\laba2_2zad\obj\Debug\laba2_2zad.csprojResolveAssemblyReference.cache
+c:\users\lena\documents\visual studio 2012\Projects\laba2_2zad\laba2_2zad\obj\Debug\laba2_2zad.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba2_2zad\laba2_2zad\obj\Debug\laba2_2zad.pdb

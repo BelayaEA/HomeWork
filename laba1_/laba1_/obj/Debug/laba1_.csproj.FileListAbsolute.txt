@@ -1,0 +1,6 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba1_\laba1_\bin\Debug\laba1_.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba1_\laba1_\bin\Debug\laba1_.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba1_\laba1_\bin\Debug\laba1_.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba1_\laba1_\obj\Debug\laba1_.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba1_\laba1_\obj\Debug\laba1_.pdb
+C:\Users\Lena\Documents\Visual Studio 2012\Projects\laba1_\laba1_\obj\Debug\laba1_.csprojResolveAssemblyReference.cache
