@@ -1,0 +1,7 @@
+C:\Users\Lena\Documents\Visual Studio 2012\Projects\laba4papka\UnitTestTR\obj\Debug\UnitTestTR.csprojResolveAssemblyReference.cache
+C:\Users\Lena\Documents\Visual Studio 2012\Projects\laba4papka\UnitTestTR\bin\Debug\UnitTestTR.dll
+C:\Users\Lena\Documents\Visual Studio 2012\Projects\laba4papka\UnitTestTR\bin\Debug\UnitTestTR.pdb
+C:\Users\Lena\Documents\Visual Studio 2012\Projects\laba4papka\UnitTestTR\bin\Debug\laba4papka.exe
+C:\Users\Lena\Documents\Visual Studio 2012\Projects\laba4papka\UnitTestTR\bin\Debug\laba4papka.pdb
+C:\Users\Lena\Documents\Visual Studio 2012\Projects\laba4papka\UnitTestTR\obj\Debug\UnitTestTR.dll
+C:\Users\Lena\Documents\Visual Studio 2012\Projects\laba4papka\UnitTestTR\obj\Debug\UnitTestTR.pdb

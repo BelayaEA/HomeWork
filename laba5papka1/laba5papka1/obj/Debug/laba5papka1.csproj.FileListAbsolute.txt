@@ -1,0 +1,6 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba5papka1\laba5papka1\bin\Debug\laba5papka1.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba5papka1\laba5papka1\obj\Debug\laba5papka1.csprojResolveAssemblyReference.cache
+c:\users\lena\documents\visual studio 2012\Projects\laba5papka1\laba5papka1\bin\Debug\laba5papka1.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba5papka1\laba5papka1\bin\Debug\laba5papka1.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba5papka1\laba5papka1\obj\Debug\laba5papka1.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba5papka1\laba5papka1\obj\Debug\laba5papka1.pdb

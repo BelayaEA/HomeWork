@@ -1,0 +1,6 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba6papka\laba6papka\bin\Debug\laba6papka.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba6papka\laba6papka\obj\Debug\laba6papka.csprojResolveAssemblyReference.cache
+c:\users\lena\documents\visual studio 2012\Projects\laba6papka\laba6papka\bin\Debug\laba6papka.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba6papka\laba6papka\bin\Debug\laba6papka.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba6papka\laba6papka\obj\Debug\laba6papka.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba6papka\laba6papka\obj\Debug\laba6papka.pdb

@@ -1,0 +1,5 @@
+c:\users\lena\documents\visual studio 2012\Projects\laba4papka\laba4papka\bin\Debug\laba4papka.exe.config
+c:\users\lena\documents\visual studio 2012\Projects\laba4papka\laba4papka\bin\Debug\laba4papka.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba4papka\laba4papka\bin\Debug\laba4papka.pdb
+c:\users\lena\documents\visual studio 2012\Projects\laba4papka\laba4papka\obj\Debug\laba4papka.exe
+c:\users\lena\documents\visual studio 2012\Projects\laba4papka\laba4papka\obj\Debug\laba4papka.pdb
